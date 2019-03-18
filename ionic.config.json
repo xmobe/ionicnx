@@ -1,0 +1,6 @@
+{
+  "name": "mobile",
+  "integrations": {},
+  "type": "angular",
+  "root": "apps/mobile"
+}

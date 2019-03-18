@@ -1,0 +1,24 @@
+{
+  "npmScope": "ionicnx",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "webiste": {
+      "tags": ["website"]
+    },
+    "webiste-e2e": {
+      "tags": []
+    },
+    "mobile": {
+      "tags": ["mobile"]
+    },
+    "mobile-e2e": {
+      "tags": []
+    }
+  }
+}
